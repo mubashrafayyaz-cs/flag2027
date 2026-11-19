@@ -1,0 +1,6 @@
+﻿# Placeholder. Replace with the output of `pip freeze` from the Colab runtime (see README).
+# Extra packages installed on top of Colab's default stack:
+speechbrain
+onnx
+onnx2torch
+peft
